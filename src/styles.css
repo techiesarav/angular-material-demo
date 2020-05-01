@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+/* To set the material themes of angular */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+/* To import and use the material icons*/
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+/* To import Roboto Font*/
+@import "https://fonts.googleapis.com/css?family=Open+Sans";
+
+.mat-tab-body-content {
+  padding-top: 20px;
+}
